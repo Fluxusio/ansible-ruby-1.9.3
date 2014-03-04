@@ -1,6 +1,6 @@
 ---
 ruby_library_version:   "1.9.1"
-ruby_version:           "ruby-1.9.3-p484"
-ruby_checksum:          "d684bc3a5ba72cda9ef30039f783c0f8cdc325bae5c8738c7bf05577cbe8f31d"
+ruby_version:           "ruby-1.9.3-p545"
+ruby_checksum:          "05fb00ebd374ef800475eb40b71ebc42cc18c1f61f4885c11737f310d3d23111"
 ruby_download_location: "http://cache.ruby-lang.org/pub/ruby/1.9/{{ ruby_version }}.tar.gz"
 ruby_bundler_flags: "--no-rdoc --no-ri"
